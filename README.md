@@ -26,7 +26,7 @@ Next, you will see the following commands for data manipulation:
   - __Put{id}__ \- provides the ability to edit the address at the specified index
   - __Delete{id}__ \- deletes the address at the specified index 
     
-All changes are reflected in the database
+All changes are reflected in the database. You don`t need to have database in project folder, program will create it.    
 Overloading the Get method \- you can specify the name of the field by which all addresses will be sorted, as well as the sorting direction ( 1 - ascending, 2 - descending)  
 Happy using!
 
