@@ -13,3 +13,4 @@ Next, you will see the following commands for data manipulation:
 All changes are reflected in the database. You don`t need to have database in project folder, program will create it.    
 Overloading the Get method \- you can specify the name of the field by which all addresses will be sorted, as well as the sorting direction ( 1 - ascending, 2 - descending)  
 Happy using!
+##At the moment I'm working on adding geolocation to this project:)
